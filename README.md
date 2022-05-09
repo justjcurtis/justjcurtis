@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justjcurtis&label=Profile%20views&color=0e75b6&style=flat" alt="justjcurtis" /> </p>
 
-- 🔭 I’m currently working on [The Economist](https://apps.apple.com/us/app/the-economist/id1239397626)
+- 🔭 I’m currently working on [The Economist app](https://apps.apple.com/us/app/the-economist/id1239397626)
 
-- 👨‍💻 All of my projects are available at [https://justjcurtis.dev](https://justjcurtis.dev)
+- 👨‍💻 All of my projects are available at [justjcurtis.dev](https://justjcurtis.dev)
 
 - 💬 Ask me about **react-native, node, ml**
 
