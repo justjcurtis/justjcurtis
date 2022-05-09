@@ -8,7 +8,7 @@
 
 - 👨‍💻 Some of my projects are available at [justjcurtis.dev](https://justjcurtis.dev)
 
-- 🧠 Main side project right now is [JustNeat](https://www.npmjs.com/package/justneat): demo here -> [FlappyNeat](https://justjcurtis.dev/FlappyNeat)
+- 🧠 Main side project right now is [JustNeat](https://www.npmjs.com/package/justneat): demo here -> [FlappyNeat](https://justjcurtis.dev/FlappyNeat)🐥
 
 - 💬 Ask me about **react-native, node, ml**
 
