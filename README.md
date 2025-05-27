@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jacson</h1>
-<h3 align="center">Tech lead @ Rippl.</h3>
+<h3 align="center">Tech lead @ CitNOW.</h3>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AM-JKLUdfyO3RyJ-IqFzn7RqHmg5F-aRF9MsiAud-85s2hoiZpNXxd9w6ZsxyrQp7_0t86mwtBo-sPSbFFlaX6iK6p-ZfLbIDhmxqAW5mh5Vu9_Wfax04Ya8QOsq5Tj-PjrS92ma74GOeszeh4Fb62hUCObGlw=w654-h368-no"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justjcurtis&label=Profile%20views&color=0e75b6&style=flat" alt="justjcurtis" /> </p>
 
-- 🔭 I’m currently working on [The Rippl app](https://www.rippl.work)
+- 🔭 I’m currently working on [The Imaging app @ CitNOW](https://www.citnow.com/products/imaging/)
 
 - 👨‍💻 Some of my projects are available at [justjcurtis.dev](https://justjcurtis.dev)
 
