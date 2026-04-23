@@ -1,5 +1,7 @@
 <h2>Hi 👋, I'm Jacson</h1>
-<h3>Senior Developer @ OnceForAll. <img src="https://onceforall.com/favicon.ico" width="30" height="30" alt="OnceForAll favicon" style="vertical-align: middle; margin-bottom: 5px;"></h3>
+<h3>
+  Senior Developer @ OnceForAll <img src="https://onceforall.com/favicon.ico" width="20" />
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justjcurtis&label=Profile%20views&color=0e75b6&style=flat" alt="justjcurtis" /> </p>
 
