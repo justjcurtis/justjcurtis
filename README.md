@@ -6,16 +6,23 @@
 - 🔭 I’m currently working at [OnceForAll](https://www.onceforall.com).
 - 👨‍💻 Take a look at my portfolio @ [justjcurtis.dev](https://justjcurtis.dev) for more stuff I've done.
 - ⚙️ I use daily: `.js(x)`, `.ts(x)`, `.lua`, `.go`, `kitty`, `nvim`, `zsh`
-<div style="display: flex; gap: 10px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=justjcurtis&show_icons=true&locale=en&layout=pie"
-    alt="justjcurtis"
-    style="width: 50%; height: 300px; object-fit: cover;"
-  />
 
-  <img 
-    alt="Coding"
-    src="https://lh3.googleusercontent.com/pw/AM-JKLUdfyO3RyJ-IqFzn7RqHmg5F-aRF9MsiAud-85s2hoiZpNXxd9w6ZsxyrQp7_0t86mwtBo-sPSbFFlaX6iK6p-ZfLbIDhmxqAW5mh5Vu9_Wfax04Ya8QOsq5Tj-PjrS92ma74GOeszeh4Fb62hUCObGlw=w654-h368-no=w800-h400-c"
-    style="width: 50%; height: 300px; object-fit: cover;"
-  />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" style="padding-right: 6px; border: none;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=justjcurtis&show_icons=true&locale=en&layout=pie" 
+        width="100%"
+        alt="Top Languages"
+      />
+    </td>
+    <td width="50%" align="center" style="padding-left: 6px; border: none;">
+      <img 
+        src="/coding.gif" 
+        width="100%" 
+        style="border-radius: 4px"
+        alt="Coding"
+      />
+    </td>
+  </tr>
+</table>
